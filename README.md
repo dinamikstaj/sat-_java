@@ -21,4 +21,4 @@ chmor -R 777 /apps/
 
 ```
 
-ben de birseyler yazmak istiyorum
+ben de bir seyler yazmak istiyorum
